@@ -8,7 +8,7 @@ import concurrent.futures
 import re
 
 #OPEN AI API KEY DECLARATION
-api_key = 'sk-proj-Pg571DNE9tqHSlgMJyyBT3BlbkFJ3IuqEqKZUJMcV4EbiQ3s'
+api_key = 'your open api key'
 endpoint = 'https://api.openai.com/v1/chat/completions'
 
 #FUNCTION TO GENERATE SUMMARY
